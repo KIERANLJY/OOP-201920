@@ -1,4 +1,4 @@
-#course: Object-oriented programming, year 2, semester 1
+#   course: Object-oriented programming, year 2, semester 1
 #academic year: 201819
 #author: B. Schoen-Phelan
 #date: 22-09-2018
